@@ -26,10 +26,11 @@ Strong interpersonal and communication skills</br>
 </br>
 ###EDUCATION
  
-2015-present  </br> 
+**2015-present**  </br> 
 Bachelor’s Degree **NATIONAL POLYTECHNIC UNIVERSITY OF ARMENIA (NPUA)** </br>
 Faculty of Informatics and Applied Mathematics</br>
-2012-2015</br>
+</br> 
+**2012-2015**</br>
 NPUA High School</br>
 </br>
 ###LANGUAGE SKILLS
