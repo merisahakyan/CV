@@ -6,7 +6,8 @@ E-mail: sahakyan_m@bk.ru </br>
 [LinkedId account:](https://www.linkedin.com/in/meri-sahakyan-bbb736142/) </br>
 </br>
 <hr>
-
+###Work Experience
+* 2017 July-present | BetConstruct ( Software Engineer, Back-End developer (.NET) )
 ### TECHNICAL SKILLS
 * Languages: C# 6.0 (basic knowledge of Visual Basic)
 * Libraries and Frameworks: Object Oriented Programming, .NET Framework 4.6, LINQ, Windows Forms ,<br>
