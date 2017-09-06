@@ -15,7 +15,7 @@ E-mail: sahakyan_m@bk.ru </br>
 ### TECHNICAL SKILLS
 * Languages: C# 6.0 (basic knowledge of Visual Basic)
 * Libraries and Frameworks: Object Oriented Programming, .NET Framework 4.6, LINQ, Windows Forms ,<br>
-  WPF , WCF , ADO.NET , Entity Framework, MS SQL , ASP.NET Web API
+  WPF , WCF , ADO.NET , Entity Framework, MS SQL , ASP.NET Web API , JavaScript(JQuery)
 * VSC: Git, GitHub
 * IDE: Visual Studio 2015
 * Matlab,SQL Server</br>
