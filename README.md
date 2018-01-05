@@ -1,7 +1,7 @@
 ## Meri Sahakyan</br></br>
 
 Tel.: +374 93206160</br>
-E-mail: sahakyan_m@bk.ru </br>
+E-mail: www.merisahakyan@gmail.com </br>
 [GitHub account:](https://github.com/merisahakyan)</br>
 [LinkedId account:](https://www.linkedin.com/in/meri-sahakyan-bbb736142/) </br>
 </br>
