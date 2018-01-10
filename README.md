@@ -14,17 +14,16 @@ E-mail: www.merisahakyan@gmail.com </br>
 </br>
 
 ### TECHNICAL SKILLS
-* Languages: C# 6.0 (basic knowledge of Visual Basic)
-* Libraries and Frameworks: Object Oriented Programming, .NET Framework 4.6, LINQ, Windows Forms ,<br>
+* Languages: C# 
+* Libraries and Frameworks: OOP, .NET Framework ,<br>
   WPF , WCF , ADO.NET , Entity Framework, MS SQL , ASP.NET Web API , JavaScript(JQuery)
-* VSC: Git, GitHub
-* IDE: Visual Studio 2015
-* Matlab,SQL Server</br>
+* VSC: Git
 </br>
 
 ### TRAINING COURSES
+**MIC Armenia**           – BetConstruct internship for back-end developer on C# 6.0.</br>
 **ATM programming**       – C#(OOP,Windows Forms),ENTITY Framework,ASP.Net certificate.</br>
-**MIC Armenia**           –BetConstruct internship for back-end developer on C# 6.0.</br>
+
 </br>
 ### ADDITIONAL CAPABILITIES
 Demonstrated ability to work independently as well as in a team environment</br>
