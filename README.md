@@ -9,8 +9,7 @@ E-mail: www.merisahakyan@gmail.com </br>
 </br>
 
 ### Work Experience
-* 2018 Jenuary - present | ArmEconomBank OJSC (.Net Developer)
-* 2017 July - 2018 Jenuary | BetConstruct ( Software Engineer, Back-End developer (.NET) )
+* 2017 July - present | BetConstruct ( Software Engineer, Back-End developer (.NET) )
 </br>
 
 ### TECHNICAL SKILLS
